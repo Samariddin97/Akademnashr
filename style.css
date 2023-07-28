@@ -89,6 +89,10 @@ header ul {
   border-radius: 5px;
 }
 
+.custom-btn:hover {
+  opacity: 0.8;
+}
+
 .active {
   border-bottom: #FF7500 solid 3px;
   padding-bottom: 5px;
